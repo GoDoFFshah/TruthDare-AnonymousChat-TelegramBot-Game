@@ -14,8 +14,8 @@ from datetime import datetime
 from collections import defaultdict
 
 # ================== تنظیمات ==================
-BOT_TOKEN = "8951686799:AAFtYy9CQMFD9IqxdpEwyWDjA7nGJp_k3Uk"
-ADMIN_IDS = [8435062777]
+BOT_TOKEN = ""
+ADMIN_IDS = []
 
 bot = telebot.TeleBot(BOT_TOKEN, parse_mode='HTML')
 
