@@ -54,45 +54,7 @@
     ├── README.md
     └── data/
         └── ...
-
----
-
-## 🎮 How It Works | نحوه کار
-
-### 🇬🇧 English
-
-1. Start the bot.
-2. Choose *Truth or Dare* or *Anonymous Chat*.
-3. Select your preferred option.
-4. For Anonymous Chat, wait for another available user.
-5. Start chatting anonymously.
-6. End the conversation whenever you want.
-
-### 🇮🇷 فارسی
-
-1. ربات را Start کنید.
-2. گزینه *جرات یا حقیقت* یا *چت ناشناس* را انتخاب کنید.
-3. حالت مورد نظر خود را انتخاب کنید.
-4. در چت ناشناس منتظر پیدا شدن یک کاربر دیگر بمانید.
-5. گفت‌وگو را به صورت ناشناس شروع کنید.
-6. هر زمان خواستید گفتگو را پایان دهید.
    
----
-
-## 🤝 Contributing | مشارکت
-
-*🇬🇧 English*
-
-Contributions, suggestions and improvements are welcome.
-
-Fork the repository, make your changes and submit a Pull Request.
-
-*🇮🇷 فارسی*
-
-از پیشنهادها، ایده‌ها و بهبودهای پروژه استقبال می‌شود.
-
-ریپازیتوری را Fork کنید، تغییرات خود را اعمال کنید و Pull Request ارسال کنید.
-
 ---
 
 ## ⭐ Support | حمایت
