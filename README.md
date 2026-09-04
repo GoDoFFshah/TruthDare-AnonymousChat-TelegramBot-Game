@@ -62,9 +62,3 @@
 If you like this project, consider giving it a *⭐ Star* on GitHub.
 
 اگر از این پروژه خوشتان آمد، با دادن یک *⭐ Star* در GitHub از آن حمایت کنید.
-
----
-
-*Made with ❤️ and Python*
-
-*ساخته شده با ❤️ و Python*# TruthDare-AnonymousChat-TelegramBot-Game
